@@ -1,4 +1,4 @@
-Emily Burnaman About Page
+# Emily Burnaman About Page
 Linner Rivas About Page
 Burnaman Rivas Services Page
 Contact Us Page
@@ -10,6 +10,17 @@ Node / NPM
 Create React App
 Tailwind CSS
 Heroku CLI
+
+
+## Deploy to Heroku
+
+Ran into issue deloying react app to Heroku. 
+
+[Attempted Solution](https://www.geeksforgeeks.org/how-to-deploy-react-app-to-heroku/)
+
+### heroku 
+
+[TailwindCSS Guide](https://tailwindcss.com/docs/guides/create-react-app)
 
 
 ## Install Tawilwind CSS with Create React App 
