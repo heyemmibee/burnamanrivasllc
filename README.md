@@ -1,4 +1,19 @@
-# Getting Started with Create React App
+#Emily Burnaman About Page
+#Burnaman Rivas Services Page - Request Session / Make Payment
+
+
+##Technologies Used
+
+Node / NPM
+Create React App
+Tailwind CSS
+
+
+## Install Tawilwind CSS with Create React App 
+
+[TailwindCSS Guide](https://tailwindcss.com/docs/guides/create-react-app)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
