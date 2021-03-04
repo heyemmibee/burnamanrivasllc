@@ -1,5 +1,7 @@
-#Emily Burnaman About Page
-#Burnaman Rivas Services Page - Request Session / Make Payment
+Emily Burnaman About Page
+Linner Rivas About Page
+Burnaman Rivas Services Page
+Contact Us Page
 
 
 ##Technologies Used
@@ -7,6 +9,7 @@
 Node / NPM
 Create React App
 Tailwind CSS
+Heroku CLI
 
 
 ## Install Tawilwind CSS with Create React App 
