@@ -1,27 +1,25 @@
-# Emily Burnaman About Page
-Linner Rivas About Page
-Burnaman Rivas Services Page
-Contact Us Page
+# Burnaman Rivas LLC Company Page
+'Emily Burnaman About Page'
+'Linner Rivas About Page'
+'Burnaman Rivas Services Page'
+'Contact Us Page'
 
+## Technologies Used
 
-##Technologies Used
+* Node / NPM
+* Create React App
+* Tailwind CSS
+* Heroku CLI
 
-Node / NPM
-Create React App
-Tailwind CSS
-Heroku CLI
+## Deployed to Heroku
 
+Our company page is viewable [here](https://burnamanrivasllc.herokuapp.com/)
 
-## Deploy to Heroku
-
-Ran into issue deloying react app to Heroku. 
+Ran into issue deloying react app to Heroku. Needed to install additional buildpack. Sucessful load.
 
 [Attempted Solution](https://www.geeksforgeeks.org/how-to-deploy-react-app-to-heroku/)
 
-### heroku 
-
-[TailwindCSS Guide](https://tailwindcss.com/docs/guides/create-react-app)
-
+### `git push heroku main`
 
 ## Install Tawilwind CSS with Create React App 
 
