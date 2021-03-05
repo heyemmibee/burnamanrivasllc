@@ -8,5 +8,4 @@ module.exports = {
     extend: {},
   },
   plugins: [],
-  colors: {primary: 'var(--site-background-color)',}
 }
