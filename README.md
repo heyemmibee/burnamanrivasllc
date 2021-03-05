@@ -13,13 +13,11 @@
 
 ## Deployed to Heroku
 
-Our company page is viewable [here](https://burnamanrivasllc.herokuapp.com/)
+Our app is live, and a work in progress, but viewable [here](https://burnamanrivasllc.herokuapp.com/)
 
 Ran into issue deloying react app to Heroku. Needed to install additional buildpack. Sucessful load.
 
 [Attempted Solution](https://www.geeksforgeeks.org/how-to-deploy-react-app-to-heroku/)
-
-### `git push heroku main`
 
 ## Install Tawilwind CSS with Create React App 
 
@@ -32,6 +30,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+@LinnerNRivas for reference
+### `git push heroku main`
 
 ### `npm start`
 
